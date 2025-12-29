@@ -1,0 +1,1102 @@
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\appsettings.Development.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\appsettings.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.runtime.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.endpoints.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.exe
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.deps.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.runtimeconfig.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.pdb
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Humanizer.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.CodeDom.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Text.Json.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.csproj.AssemblyReference.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfoInputs.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfo.cs
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.csproj.CoreCompileInputs.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cs
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\bundle\TuyenDungViecLam.styles.css
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungViecLam.bundle.scp.css
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\j4yr90658o-ggc2o9to65.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\tu69j2d9o1-61n19gt1b8.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\grqz1fejyo-xtxxf3hu2r.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\tpfdck1w1m-bqjiyaj88i.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\hz72wz1rfv-c2jlpeoesf.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\40rs994xov-erw9l3u2r3.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\a19ypqswj6-aexeepp0ev.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\1ya6kgu3xe-d7shbmvgxk.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\kajfnz9ggj-ausgxo2sd3.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\9wveoo6c6i-k8d9w2qqmf.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7lekhs74s0-cosvhxvwiu.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\vbupuzxr9s-ub07r2b239.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\3yb3rch1zg-fvhpjtyr6v.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\wjvjzeg2o7-b7pk76d08c.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7mlvp5w2wp-fsbi9cje9m.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7cwiglm8ln-rzd6atqjts.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\isaj5b0z0w-ee0r1s7dh0.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\b6f7788945-dxx9fxp4il.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\patszcnuuv-jd9uben2k1.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\jcuqepupzg-khv3u5hwcm.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nlofecvnyr-r4e9w2rdcm.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\uz11zbvwv2-lcd1t2u6c8.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\txehny3gzo-c2oey78nd0.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\kdoouzp07h-tdbxkamptv.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7movtsjwl7-j5mq2jizvt.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\xv4xc4w588-06098lyss8.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\jirtjs55rc-nvvlpmu67g.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\8yq1nabzn9-s35ty4nyc5.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\cv4py8lpvu-pj5nd1wqec.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\3ez3mn5n4p-46ein0sx1k.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\v9rlnrmhgj-v0zj4ognzu.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\8j60pw33fg-37tfw0ft22.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\bnncjoq39x-hrwsygsryq.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\5ag88l32on-pk9g2wxc8p.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\25bbsc6rzu-ft3s53vfgj.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ivtszcql4i-6cfz1n2cew.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\c7jy51tzqe-6pdc2jztkx.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nw426tr2jd-493y06b0oq.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\dn9e2k1b0m-iovd86k7lj.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\rggiqqn0zj-vr1egmr9el.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\c3pxsjxfri-kbrnm935zg.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nujyb0y7ox-jj8uyg4cgr.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\13tgruqd9c-y7v9cxd14o.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\n1a73i0ikc-notf2xhcfb.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\gnxtd1wbts-h1s4sie4z3.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\9eysrcnd4r-63fj8s7r0e.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\filrpxrhm1-0j3bgjxly4.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ej89la90t8-47otxtyo56.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\x7tbj761fq-4v8eqarkd7.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\9ejsj43593-356vix0kms.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\hmbi1pifos-83jwlth58m.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\04mlts0cck-mrlpezrjn3.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\tzm3ri7rqz-lzl9nlhx6b.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nld4wcfhky-ag7o75518u.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ozfonvv3xm-x0q3zqp4vz.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ty8h86j23c-0i3buxo5is.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\3hpicqic94-o1o13a6vjx.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\qlnd1ksrss-ttgo8qnofa.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\jewqw5ooz3-2z0ns9nrw6.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\crpqestj3x-muycvpuwrr.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\q6qisfyqqk-87fc7y1x7t.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nfi62dygh2-mlv21k5csn.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\u1f130v46t-8n401ug1rm.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\fdcqb1kmcp-8n401ug1rm.gz
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.development.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDun.406ADC7D.Up2Date
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\refint\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.pdb
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.genruntimeconfig.cache
+D:\New folder\ASP.NET\07092025-nguyennhutlam\website tuyển dụng việc làm\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\ref\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\appsettings.Development.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\appsettings.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.endpoints.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.runtime.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.exe
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.deps.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.runtimeconfig.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.pdb
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Humanizer.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.CodeDom.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\System.Text.Json.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.csproj.AssemblyReference.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfoInputs.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfo.cs
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.csproj.CoreCompileInputs.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cs
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\bundle\TuyenDungViecLam.styles.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungViecLam.bundle.scp.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\j4yr90658o-ggc2o9to65.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\tu69j2d9o1-61n19gt1b8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\grqz1fejyo-xtxxf3hu2r.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\tpfdck1w1m-bqjiyaj88i.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\hz72wz1rfv-c2jlpeoesf.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\40rs994xov-erw9l3u2r3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\a19ypqswj6-aexeepp0ev.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\1ya6kgu3xe-d7shbmvgxk.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\kajfnz9ggj-ausgxo2sd3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\9wveoo6c6i-k8d9w2qqmf.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7lekhs74s0-cosvhxvwiu.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\vbupuzxr9s-ub07r2b239.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\3yb3rch1zg-fvhpjtyr6v.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\wjvjzeg2o7-b7pk76d08c.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7mlvp5w2wp-fsbi9cje9m.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7cwiglm8ln-rzd6atqjts.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\isaj5b0z0w-ee0r1s7dh0.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\b6f7788945-dxx9fxp4il.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\patszcnuuv-jd9uben2k1.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\jcuqepupzg-khv3u5hwcm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nlofecvnyr-r4e9w2rdcm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\uz11zbvwv2-lcd1t2u6c8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\txehny3gzo-c2oey78nd0.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\kdoouzp07h-tdbxkamptv.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\7movtsjwl7-j5mq2jizvt.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\xv4xc4w588-06098lyss8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\jirtjs55rc-nvvlpmu67g.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\8yq1nabzn9-s35ty4nyc5.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\cv4py8lpvu-pj5nd1wqec.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\3ez3mn5n4p-46ein0sx1k.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\v9rlnrmhgj-v0zj4ognzu.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\8j60pw33fg-37tfw0ft22.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\bnncjoq39x-hrwsygsryq.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\5ag88l32on-pk9g2wxc8p.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\25bbsc6rzu-ft3s53vfgj.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ivtszcql4i-6cfz1n2cew.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\c7jy51tzqe-6pdc2jztkx.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nw426tr2jd-493y06b0oq.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\dn9e2k1b0m-iovd86k7lj.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\rggiqqn0zj-vr1egmr9el.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\c3pxsjxfri-kbrnm935zg.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nujyb0y7ox-jj8uyg4cgr.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\13tgruqd9c-y7v9cxd14o.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\n1a73i0ikc-notf2xhcfb.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\gnxtd1wbts-h1s4sie4z3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\9eysrcnd4r-63fj8s7r0e.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\filrpxrhm1-0j3bgjxly4.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ej89la90t8-47otxtyo56.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\x7tbj761fq-4v8eqarkd7.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\9ejsj43593-356vix0kms.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\hmbi1pifos-83jwlth58m.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\04mlts0cck-mrlpezrjn3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\tzm3ri7rqz-lzl9nlhx6b.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nld4wcfhky-ag7o75518u.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ozfonvv3xm-x0q3zqp4vz.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\ty8h86j23c-0i3buxo5is.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\3hpicqic94-o1o13a6vjx.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\qlnd1ksrss-ttgo8qnofa.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\jewqw5ooz3-2z0ns9nrw6.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\crpqestj3x-muycvpuwrr.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\q6qisfyqqk-87fc7y1x7t.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\nfi62dygh2-mlv21k5csn.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\u1f130v46t-8n401ug1rm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\compressed\fdcqb1kmcp-8n401ug1rm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.development.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDun.406ADC7D.Up2Date
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\refint\TuyenDungViecLam.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.pdb
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.genruntimeconfig.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\tuyển dụng việc làm\1\tuyendungvieclam\TuyenDungViecLam\obj\Debug\net9.0\ref\TuyenDungViecLam.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\appsettings.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.runtime.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.endpoints.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.exe
+C:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.deps.json
+C:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.runtimeconfig.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\TuyenDungViecLam.pdb
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Humanizer.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.csproj.AssemblyReference.cache
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfoInputs.cache
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfo.cs
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.csproj.CoreCompileInputs.cache
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cache
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cs
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\rjimswa.dswa.cache.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\bundle\TuyenDungViecLam.styles.css
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungViecLam.bundle.scp.css
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\2g6wadgmm2-{0}-ggc2o9to65-ggc2o9to65.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\vha2f7glez-{0}-61n19gt1b8-61n19gt1b8.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\12vj9smm72-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\1bnjdtcxr8-{0}-bqjiyaj88i-bqjiyaj88i.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\auog02cgbw-{0}-c2jlpeoesf-c2jlpeoesf.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\8aeuwrmcea-{0}-erw9l3u2r3-erw9l3u2r3.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\qiz07yyo60-{0}-aexeepp0ev-aexeepp0ev.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\1w9338c5i3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\a6cx8owzpz-{0}-ausgxo2sd3-ausgxo2sd3.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\at6yl75g2w-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\3oo2c0s0zw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\xkeun7kq6m-{0}-ub07r2b239-ub07r2b239.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\2jw2gi3o95-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\i7cyoqiyv1-{0}-b7pk76d08c-b7pk76d08c.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\d34ttcfv00-{0}-fsbi9cje9m-fsbi9cje9m.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\o276dn1ie8-{0}-rzd6atqjts-rzd6atqjts.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\duryb1wdrj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\tf7m9ig8r5-{0}-dxx9fxp4il-dxx9fxp4il.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\5221fhi5d4-{0}-jd9uben2k1-jd9uben2k1.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\b72jkk6qtu-{0}-khv3u5hwcm-khv3u5hwcm.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\5qmelhjas5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\e4n56f1com-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\kwc5rkxong-{0}-c2oey78nd0-c2oey78nd0.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\e4w99cv7xs-{0}-tdbxkamptv-tdbxkamptv.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\sjvk4w9ejo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\igawyfxvbs-{0}-06098lyss8-06098lyss8.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\529vrcwkb2-{0}-nvvlpmu67g-nvvlpmu67g.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\e2ri8ahmo3-{0}-s35ty4nyc5-s35ty4nyc5.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\wj5mz8whhz-{0}-pj5nd1wqec-pj5nd1wqec.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\po0ahcfzlw-{0}-46ein0sx1k-46ein0sx1k.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\0ogfgssk9x-{0}-v0zj4ognzu-v0zj4ognzu.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\p01aglodr7-{0}-37tfw0ft22-37tfw0ft22.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\qby8etxeta-{0}-hrwsygsryq-hrwsygsryq.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\jykvusjczk-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\t01je3i734-{0}-ft3s53vfgj-ft3s53vfgj.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\y8dq3dh1xg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\c2gdtnmbi8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\15drz2ulcd-{0}-493y06b0oq-493y06b0oq.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\ht4yy3sf57-{0}-iovd86k7lj-iovd86k7lj.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\19021fd3ci-{0}-vr1egmr9el-vr1egmr9el.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\jn0i3k18zy-{0}-kbrnm935zg-kbrnm935zg.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\audun13eqr-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\p6nterom9w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\9cwxeg21l9-{0}-notf2xhcfb-notf2xhcfb.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\bd6zd9knct-{0}-h1s4sie4z3-h1s4sie4z3.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\nlebd6uxuh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\0hk99sek6y-{0}-0j3bgjxly4-0j3bgjxly4.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\ot8onwr8o7-{0}-47otxtyo56-47otxtyo56.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\niwbawny0f-{0}-4v8eqarkd7-4v8eqarkd7.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\kleb5aylfm-{0}-356vix0kms-356vix0kms.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\uovnotytq8-{0}-83jwlth58m-83jwlth58m.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\cwroi03q63-{0}-mrlpezrjn3-mrlpezrjn3.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\t4vkxh5k52-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\dsw42xu8xq-{0}-ag7o75518u-ag7o75518u.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\p93fuct51m-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\rvn4rqy2ys-{0}-0i3buxo5is-0i3buxo5is.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\wxw6ll8syn-{0}-o1o13a6vjx-o1o13a6vjx.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\p9fvr815rc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\1oa1kkbt1t-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\qb2knyl69t-{0}-muycvpuwrr-muycvpuwrr.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\t5krg8en7p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\dawcsh9vj0-{0}-mlv21k5csn-mlv21k5csn.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\su0st3rfo7-{0}-rksao2pvda-rksao2pvda.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\compressed\hg9ikow44v-{0}-rksao2pvda-rksao2pvda.gz
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDun.406ADC7D.Up2Date
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\refint\TuyenDungViecLam.dll
+c:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.pdb
+C:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\TuyenDungViecLam.genruntimeconfig.cache
+C:\Users\HOANG\Desktop\New folder\tuyendungvieclam 1\TuyenDungViecLam\obj\Debug\net9.0\ref\TuyenDungViecLam.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\appsettings.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.runtime.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.endpoints.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.exe
+C:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.deps.json
+C:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.runtimeconfig.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\TuyenDungViecLam.pdb
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Humanizer.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.csproj.AssemblyReference.cache
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfoInputs.cache
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfo.cs
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.csproj.CoreCompileInputs.cache
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cache
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cs
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.sourcelink.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\rjimswa.dswa.cache.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\scopedcss\bundle\TuyenDungViecLam.styles.css
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungViecLam.bundle.scp.css
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\2g6wadgmm2-{0}-ggc2o9to65-ggc2o9to65.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\vha2f7glez-{0}-61n19gt1b8-61n19gt1b8.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\12vj9smm72-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\1bnjdtcxr8-{0}-t1cqhe9u97-t1cqhe9u97.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\auog02cgbw-{0}-c2jlpeoesf-c2jlpeoesf.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\8aeuwrmcea-{0}-sejl45xvog-sejl45xvog.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\qiz07yyo60-{0}-aexeepp0ev-aexeepp0ev.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\1w9338c5i3-{0}-xvp3kq03qx-xvp3kq03qx.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\a6cx8owzpz-{0}-ausgxo2sd3-ausgxo2sd3.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\at6yl75g2w-{0}-22vffe00uq-22vffe00uq.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\3oo2c0s0zw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\xkeun7kq6m-{0}-qesaa3a1fm-qesaa3a1fm.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\2jw2gi3o95-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\i7cyoqiyv1-{0}-tmc1g35s3z-tmc1g35s3z.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\d34ttcfv00-{0}-fsbi9cje9m-fsbi9cje9m.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\o276dn1ie8-{0}-rxsg74s51o-rxsg74s51o.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\duryb1wdrj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\tf7m9ig8r5-{0}-q9ht133ko3-q9ht133ko3.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\5221fhi5d4-{0}-jd9uben2k1-jd9uben2k1.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\b72jkk6qtu-{0}-gye83jo8yx-gye83jo8yx.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\5qmelhjas5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\e4n56f1com-{0}-wl58j5mj3v-wl58j5mj3v.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\kwc5rkxong-{0}-c2oey78nd0-c2oey78nd0.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\e4w99cv7xs-{0}-d4r6k3f320-d4r6k3f320.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\sjvk4w9ejo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\igawyfxvbs-{0}-keugtjm085-keugtjm085.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\529vrcwkb2-{0}-nvvlpmu67g-nvvlpmu67g.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\e2ri8ahmo3-{0}-zub09dkrxp-zub09dkrxp.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\wj5mz8whhz-{0}-pj5nd1wqec-pj5nd1wqec.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\po0ahcfzlw-{0}-43atpzeawx-43atpzeawx.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\0ogfgssk9x-{0}-v0zj4ognzu-v0zj4ognzu.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\p01aglodr7-{0}-ynyaa8k90p-ynyaa8k90p.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\qby8etxeta-{0}-hrwsygsryq-hrwsygsryq.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\jykvusjczk-{0}-c63t5i9ira-c63t5i9ira.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\t01je3i734-{0}-ft3s53vfgj-ft3s53vfgj.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\y8dq3dh1xg-{0}-4094rpi4f9-4094rpi4f9.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\c2gdtnmbi8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\15drz2ulcd-{0}-hd3gran6i8-hd3gran6i8.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\ht4yy3sf57-{0}-iovd86k7lj-iovd86k7lj.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\19021fd3ci-{0}-ltid2c489k-ltid2c489k.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\jn0i3k18zy-{0}-kbrnm935zg-kbrnm935zg.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\audun13eqr-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\p6nterom9w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\9cwxeg21l9-{0}-u9q1upor1n-u9q1upor1n.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\bd6zd9knct-{0}-h1s4sie4z3-h1s4sie4z3.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\nlebd6uxuh-{0}-4d85u1mtcx-4d85u1mtcx.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\0hk99sek6y-{0}-0j3bgjxly4-0j3bgjxly4.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\ot8onwr8o7-{0}-03hjc8e09r-03hjc8e09r.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\niwbawny0f-{0}-48y08845bh-48y08845bh.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\kleb5aylfm-{0}-356vix0kms-356vix0kms.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\uovnotytq8-{0}-83jwlth58m-83jwlth58m.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\cwroi03q63-{0}-mrlpezrjn3-mrlpezrjn3.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\t4vkxh5k52-{0}-worgj0nhwm-worgj0nhwm.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\dsw42xu8xq-{0}-gk0pw8i4co-gk0pw8i4co.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\p93fuct51m-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\rvn4rqy2ys-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\wxw6ll8syn-{0}-m9qm4tazc0-m9qm4tazc0.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\p9fvr815rc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\1oa1kkbt1t-{0}-jjsuc0puko-jjsuc0puko.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\qb2knyl69t-{0}-9vr69e8ynj-9vr69e8ynj.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\t5krg8en7p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\dawcsh9vj0-{0}-mlv21k5csn-mlv21k5csn.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\su0st3rfo7-{0}-rksao2pvda-rksao2pvda.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\compressed\hg9ikow44v-{0}-rksao2pvda-rksao2pvda.gz
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDun.406ADC7D.Up2Date
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\refint\TuyenDungViecLam.dll
+c:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.pdb
+C:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\TuyenDungViecLam.genruntimeconfig.cache
+C:\Users\HOANG\Documents\GitHub\ASPNET-DT23TTC13-LEHONGHOANG-170123853-ASP.NET-\obj\Debug\net9.0\ref\TuyenDungViecLam.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\appsettings.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.endpoints.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.staticwebassets.runtime.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.exe
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.deps.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.runtimeconfig.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\TuyenDungViecLam.pdb
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Humanizer.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.csproj.AssemblyReference.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfoInputs.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.AssemblyInfo.cs
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.csproj.CoreCompileInputs.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.RazorAssemblyInfo.cs
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\scopedcss\bundle\TuyenDungViecLam.styles.css
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungViecLam.bundle.scp.css
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\2g6wadgmm2-{0}-ggc2o9to65-ggc2o9to65.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\vha2f7glez-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\12vj9smm72-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\1bnjdtcxr8-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\auog02cgbw-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\8aeuwrmcea-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\qiz07yyo60-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\1w9338c5i3-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\a6cx8owzpz-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\at6yl75g2w-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\3oo2c0s0zw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\xkeun7kq6m-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\2jw2gi3o95-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\i7cyoqiyv1-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\d34ttcfv00-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\o276dn1ie8-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\duryb1wdrj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\tf7m9ig8r5-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\5221fhi5d4-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\b72jkk6qtu-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\5qmelhjas5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\e4n56f1com-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\kwc5rkxong-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\e4w99cv7xs-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\sjvk4w9ejo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\igawyfxvbs-{0}-keugtjm085-keugtjm085.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\529vrcwkb2-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\e2ri8ahmo3-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\wj5mz8whhz-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\po0ahcfzlw-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\0ogfgssk9x-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\p01aglodr7-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\qby8etxeta-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\jykvusjczk-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\t01je3i734-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\y8dq3dh1xg-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\c2gdtnmbi8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\15drz2ulcd-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\ht4yy3sf57-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\19021fd3ci-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\jn0i3k18zy-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\audun13eqr-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\p6nterom9w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\9cwxeg21l9-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\bd6zd9knct-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\nlebd6uxuh-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\0hk99sek6y-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\ot8onwr8o7-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\niwbawny0f-{0}-48y08845bh-48y08845bh.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\kleb5aylfm-{0}-356vix0kms-356vix0kms.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\uovnotytq8-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\cwroi03q63-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\t4vkxh5k52-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\dsw42xu8xq-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\p93fuct51m-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\rvn4rqy2ys-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\wxw6ll8syn-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\p9fvr815rc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\1oa1kkbt1t-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\qb2knyl69t-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\t5krg8en7p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\dawcsh9vj0-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\su0st3rfo7-{0}-rksao2pvda-rksao2pvda.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\compressed\hg9ikow44v-{0}-rksao2pvda-rksao2pvda.gz
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDun.406ADC7D.Up2Date
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\refint\TuyenDungViecLam.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.pdb
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.genruntimeconfig.cache
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\ref\TuyenDungViecLam.dll
+C:\Users\HOANG\Documents\GitHub\Tuyển Dụng Việc Làm\src\obj\Debug\net9.0\TuyenDungViecLam.sourcelink.json
